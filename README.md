@@ -99,5 +99,5 @@ Datebook is an AI-first dating platform where an intelligent agent helps you fin
 ---
 
 <p align="center">
-  <strong>NVIDIA Certified Professional — Agentic AI</strong> &nbsp;|&nbsp; <strong>AWS Solutions Architect — Professional</strong> &nbsp;|&nbsp; <strong>FRM</strong>
+  <strong>IMC Prosperity 4 Trading Challenge Finalist</strong> &nbsp;|&nbsp; <strong>NVIDIA Certified Professional — Agentic AI</strong> &nbsp;|&nbsp; <strong>AWS Solutions Architect — Professional</strong> &nbsp;|&nbsp; <strong>FRM</strong>
 </p>
