@@ -32,6 +32,12 @@ I build AI-powered products and quantitative trading systems. Previously spent 9
 
 Datebook is an AI-first dating platform where an intelligent agent helps you find meaningful connections — not just swipe.
 
+<p align="center">
+  <a href="https://datebook.love">
+    <img src="assets/datebook-hero.png" width="600" alt="Datebook - AI-Powered Dating" />
+  </a>
+</p>
+
 - **AI Matchmaking Engine** — 3-layer scoring system (hard filter → pre-scoring → conversational compatibility) powered by Claude Haiku
 - **AI Companion Bot** — A dedicated AI partner with persistent memory, emotional adaptation, and daily proactive messaging
 - **125K Seed Profiles** — 369 archetypes × 339 variants across 50 US cities, generated with Imagen 4.0
@@ -39,7 +45,13 @@ Datebook is an AI-first dating platform where an intelligent agent helps you fin
 - **Full Stack** — Next.js + Python FastAPI + PostgreSQL + Azure Blob Storage, deployed on Azure with CI/CD
 
 <p align="center">
-  <a href="https://datebook.love"><strong>Visit datebook.love →</strong></a>
+  <a href="https://datebook.love">
+    <img src="assets/datebook-features.png" width="600" alt="Datebook - How It Works" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://datebook.love"><strong>Try Datebook for free →</strong></a>
 </p>
 
 ---
@@ -50,7 +62,6 @@ Datebook is an AI-first dating platform where an intelligent agent helps you fin
 |---------|-------------|------|
 | **Quant Trading Engine** | HFT market making engine with Avellaneda-Stoikov framework, 6 microstructure signals, tick-level backtesting (128M+ events) | Rust, Python, AWS |
 | **Vimi AI** | AI video generation platform on WeChat Mini Program, 300 early users | Python, WeChat SDK |
-| **Agent Wallet OS** | AI agent-powered wallet operating system | In Development |
 
 ---
 
