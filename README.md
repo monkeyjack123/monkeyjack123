@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://datebook.love">
-    <img src="https://img.shields.io/badge/Datebook.love-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Datebook.love-4E2A84?style=for-the-badge&logo=heart&logoColor=white" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I build AI-powered products and quantitative trading systems. Previously spent 9
 ### Datebook — AI-Powered Dating Platform
 
 <a href="https://datebook.love">
-  <img src="https://img.shields.io/badge/Try_Datebook-datebook.love-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Try_Datebook-datebook.love-4E2A84?style=for-the-badge" />
 </a>
 
 Datebook is an AI-first dating platform where an intelligent agent helps you find meaningful connections — not just swipe.
